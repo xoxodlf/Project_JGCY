@@ -6,6 +6,7 @@ import java.util.Date;
 import java.util.Locale;
 
 import javax.inject.Inject;
+import javax.servlet.http.HttpServletRequest;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -71,5 +72,13 @@ public class HomeController {
 		
 		return "home";
 		
+	}
+	
+	@RequestMapping(value = "vote", method = RequestMethod.GET)
+	public String vote(HttpServletRequest request, Model model ) {
+		System.out.println("vote");
+		
+		
+		return "vote";
 	}
 }
