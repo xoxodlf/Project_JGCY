@@ -35,7 +35,7 @@
           <div class="intro-heading text-uppercase">롤 전적 검색 </div>
          	 <form class="navbar-form pull-left">
 		 		 <input type="text" class="span2">
-		 		 <button type="submit" class="btn">제출</button>
+		 		 <button type="submit" class="btn">JGCY</button>
 			</form> 
           <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>

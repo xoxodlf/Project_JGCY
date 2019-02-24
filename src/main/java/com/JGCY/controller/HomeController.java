@@ -78,6 +78,9 @@ public class HomeController {
 	public String vote(HttpServletRequest request, Model model ) {
 		System.out.println("vote");
 		
+		model.addAttribute("request", request);
+		
+		
 		
 		return "vote";
 	}

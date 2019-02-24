@@ -37,7 +37,7 @@
 		<nav class="navbar navbar-expand-lg navbar-dark fixed-top"
 			id="mainNav">
 			<div class="container">
-				<a class="navbar-brand js-scroll-trigger" href="/"><img src="/img/logo2.png">&nbspJGCY.com</a>
+				<a class="navbar-brand js-scroll-trigger" href="/controller"><img src="img/logo2.png">&nbspJGCY.com</a>
 				<button class="navbar-toggler navbar-toggler-right" type="button"
 					data-toggle="collapse" data-target="#navbarResponsive"
 					aria-controls="navbarResponsive" aria-expanded="false"
@@ -51,7 +51,7 @@
 						<li class="nav-item"><a class="nav-link js-scroll-trigger"
 							href="#portfolio">챔피언 분석</a></li>
 						<li class="nav-item"><a class="nav-link js-scroll-trigger"
-							href="about">op 투표</a></li>
+							href="vote">OP 투표</a></li>
 						<li class="nav-item"><a class="nav-link js-scroll-trigger"
 							href="#team">통계</a></li>
 						<li class="nav-item"><a class="nav-link js-scroll-trigger"
